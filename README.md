@@ -14,4 +14,5 @@ How do use this dockerfile?
 4、build docker image on dockerhub 
 
 
-the dockerhub repository please reference https://hub.docker.com/r/warrior
+The dockerhub repository please reference https://hub.docker.com/r/warrior，
+And details about how to deploy containerd openstack cloud,please reference the document:基于K8S的容器云部署实践.docx
