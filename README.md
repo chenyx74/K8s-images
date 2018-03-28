@@ -15,4 +15,5 @@ How do use this dockerfile?
 
 
 The dockerhub repository please reference https://hub.docker.com/r/warrior，
+
 And details about how to deploy containerd openstack cloud,please reference the document:基于K8S的容器云部署实践.docx
