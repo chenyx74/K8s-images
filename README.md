@@ -4,9 +4,13 @@ Now Kubernetes Cluster deployed with container,but pull K8S docker images nearly
 This project provide the dockerfile used by Dockerhub when build k8s images. 
 
 How do use this dockerfile? 
+
 1、you need a Dockerhub account 
+
 2、you need create docker registry on dockerhub 
+
 3、associate you dockerhub registory with this github project 
+
 4、build docker image on dockerhub 
 
 
